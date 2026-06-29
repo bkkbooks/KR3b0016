@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3b0016/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部二
+  hash: sha256:7e32dae4903853b48f89828e61d4081cf4abc5e504c25d2bc384a1194cb036b2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3b0016_WYG_000-1a, image: WYG0727/WYG0727-0205a.png}
+body:
+  text: 武編前集兵家類提要臣等謹案武編十卷明唐順之編順之有右編已著録是書皆論用兵指要分前後二集前集六卷自將士行陣至器用火藥軍需襍術凡五十四門後集徴述古事自料敵撫士至堅壁摧標凡九十七門體例畧如武經總要所録前人舊説自孫呉穰苴李筌許洞諸兵家言及唐宋以來名臣奏議無不摭集史稱順之於學無所不窺凡兵法弧矢壬竒禽乙皆能究極原委故言之具有本末其應詔起為淮揚巡撫剿倭也負其宿望虚憍恃氣一戰而幾為宼困賴胡宗憲料其必敗伏兵豫救得免殆為宗憲玩諸股掌之上然其後部署既定亦頗能轉戰蹙賊捍禦得宜著有成效究非房琯劉秩迂繆僨轅者可比是編雖紙上之談亦多由閱歴而得固未可槩以書生之見目之矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:0716280bd0ab3eb554fed9545fa8d6d630a8f3944079e4a7b385a62c88780ea5
+metadata:
+  title: 武編
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:02:49.897742'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3b0016/KR3b0016_000.txt
+hash: sha256:59bf8c116d8ae89db9e319bd1b4ab639fdd2e6b690b01c302c9636e737eaf9c9
